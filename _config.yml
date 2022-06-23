@@ -20,7 +20,7 @@
 
 title: Slivka Development Blog
 email: mmzwarowny@dundee.ac.uk
-description: "" # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/slivka-blog" # the subpath of your site, e.g. /blog
 url: "https://warownia1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

@@ -144,8 +144,8 @@ to register plugin components. It has an advantage of being usable on
 classes, methods and functions, not just classes. Additionally, it
 doesn't enforce certain class hierarchy in favour of duck-typing.
 
-One way of making plugin registering decorator is to by creating a custom
-collection i.e. dict and adding a ``register`` method acting as a
+One way of making plugin registering decorator is by creating a custom
+collection i.e. a dict and adding a ``register`` method acting as a
 decoration to it:
 
 ```python
@@ -175,5 +175,5 @@ def plugin_function():
 plugins.register("object-plugin", PluginClass())
 ```
 
-After the plugins are loaded, the main class may access the collection
-to retrieve registered components.
+After the plugins are loaded, the main program may access the ``plugins``
+collection to retrieve registered components.
