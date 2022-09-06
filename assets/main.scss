@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.post-content {
+  h1 {
+    @include relative-font-size(2.4);
+  }
+}
+
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
