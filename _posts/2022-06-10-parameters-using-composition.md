@@ -4,8 +4,9 @@ title: "Defining service parameters using composition."
 date: 2022-06-10
 ---
 
-This post is the continuation of the [previous post] about separating
-application logic from the view. Today I focus on improving the
+This post is the continuation of the previous post:
+[Job request forms - splitting data and presentation][previous post]
+Today I focus on improving the
 implementation of service parameters. Each input parameter of the
 service is represented by a ``Field`` instance. It contains parameter
 metadata such as its name, description, type etc. and performs the
