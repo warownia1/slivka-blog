@@ -29,6 +29,7 @@ to posts dedicated to library analysis):
 [python-jsonschema/jsonschema]: https://github.com/python-jsonschema/jsonschema
 [Cerberus]: {% post_url 2022-10-10-data-validation-cerberus %}
 [pyeve/cerberus]: https://github.com/pyeve/cerberus
+[Colander]: {% post_url 2022-10-13-data-validation-colander %}
 [Pylons/colander]: https://github.com/Pylons/colander
 [pydantic/pydantic]: https://github.com/pydantic/pydantic
 [keleshev/schema]: https://github.com/keleshev/schema
