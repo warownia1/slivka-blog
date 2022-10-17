@@ -24,7 +24,6 @@ to posts dedicated to library analysis):
 - [Schema] - GitHub: [keleshev/schema]
 - [Schematics] - GitHub: [schematics/schematics]
 - [Valideer] - GitHub: [podio/valideer]
-- [Voluptuous] - GitHub: [alecthomas/vouluptuous]
 
 [python-jsonschema/jsonschema]: https://github.com/python-jsonschema/jsonschema
 [Cerberus]: {% post_url 2022-10-10-data-validation-cerberus %}
@@ -35,7 +34,6 @@ to posts dedicated to library analysis):
 [keleshev/schema]: https://github.com/keleshev/schema
 [schematics/schematics]: https://github.com/schematics/schematics
 [podio/valideer]: https://github.com/podio/valideer
-[alecthomas/vouluptuous]: https://github.com/alecthomas/voluptuous
 
 
 If any of those libraries can be easily
