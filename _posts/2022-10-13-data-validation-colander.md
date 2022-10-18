@@ -96,7 +96,7 @@ Summary:
   deeply nested schemas easy, but restricts validation to the current
   node only, preventing cross-field rules {{star}}{{no_star}}{{no_star}}
 - *error reporting*: default representation of the errors is clear but
-  the real power comes from the parseable error tree which allows
+  the real power comes from the parsable error tree which allows
   rewriting or translating error messages {{star}}{{star}}{{star}}
 - *friendliness*: schemas are coherent, and organised into a nested
   tree using Python classes; validators are attached to nodes they
