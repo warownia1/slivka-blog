@@ -206,7 +206,8 @@ Summary:
 - *normalisation*: no automatic coercion, normalisation or default
   values, what you put is what you get. &#9734;&#9734;&#9734;
 - *code style*: the library usage is very minimal, extending
-  validators requires some code gymnastics and hacking, documentation
+  validators requires some code gymnastics and hacking, official
+  schema documentation is really good, but the library documentation
   is somewhat lacking. &#9733;&#9734;&#9734;
 
 [JSON Schema]: https://json-schema.org/
