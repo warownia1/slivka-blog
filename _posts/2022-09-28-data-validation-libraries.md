@@ -33,6 +33,7 @@ to posts dedicated to library analysis):
 [pydantic/pydantic]: https://github.com/pydantic/pydantic
 [Schema]: {% post_url 2022-10-17-data-validation-schema %}
 [keleshev/schema]: https://github.com/keleshev/schema
+[Schematics]: {% post_url 2022-10-18-data-validation-schematics %}
 [schematics/schematics]: https://github.com/schematics/schematics
 [podio/valideer]: https://github.com/podio/valideer
 
