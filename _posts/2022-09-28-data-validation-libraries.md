@@ -31,6 +31,7 @@ to posts dedicated to library analysis):
 [Colander]: {% post_url 2022-10-13-data-validation-colander %}
 [Pylons/colander]: https://github.com/Pylons/colander
 [pydantic/pydantic]: https://github.com/pydantic/pydantic
+[Schema]: {% post_url 2022-10-17-data-validation-schema %}
 [keleshev/schema]: https://github.com/keleshev/schema
 [schematics/schematics]: https://github.com/schematics/schematics
 [podio/valideer]: https://github.com/podio/valideer
