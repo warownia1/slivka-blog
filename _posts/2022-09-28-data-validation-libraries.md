@@ -35,6 +35,7 @@ to posts dedicated to library analysis):
 [keleshev/schema]: https://github.com/keleshev/schema
 [Schematics]: {% post_url 2022-10-18-data-validation-schematics %}
 [schematics/schematics]: https://github.com/schematics/schematics
+[Valideer]: {% post_url 2022-10-20-data-validation-valideer %}
 [podio/valideer]: https://github.com/podio/valideer
 
 
