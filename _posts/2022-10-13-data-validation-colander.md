@@ -79,10 +79,9 @@ on GitHub).
 - [Test 02] - new constraint
 - [Test 03] - new type
 
-{% assign nbpath = "/notebooks/input-validation/colander" %}
-[Test 01]: {% link {{nbpath}}/colander-01-basic-functionality.html %}
-[Test 02]: {% link {{nbpath}}/colander-02-new-constraint.html %}
-[Test 03]: {% link {{nbpath}}/colander-03-new-type.html %}
+[Test 01]: {% link /notebooks/input-validation/colander/colander-01-basic-functionality.html %}
+[Test 02]: {% link /notebooks/input-validation/colander/colander-02-new-constraint.html %}
+[Test 03]: {% link /notebooks/input-validation/colander/colander-03-new-type.html %}
 
 Summary:
 

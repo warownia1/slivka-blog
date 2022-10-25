@@ -51,10 +51,9 @@ experience.
 - [Test 02] - new constraint
 - [Test 03] - new type
 
-{% assign notebooks = "/notebooks/input-validation/valideer" %}
-[Test 01]: {% link {{notebooks}}/valideer-01-basic-functionality.html %}
-[Test 02]: {% link {{notebooks}}/valideer-02-new-constraint.html %}
-[Test 03]: {% link {{notebooks}}/valideer-03-new-type.html %}
+[Test 01]: {% link /notebooks/input-validation/valideer/valideer-01-basic-functionality.html %}
+[Test 02]: {% link /notebooks/input-validation/valideer/valideer-02-new-constraint.html %}
+[Test 03]: {% link /notebooks/input-validation/valideer/valideer-03-new-type.html %}
 
 {% assign star = "&#9733;" %}
 {% assign nostar = "&#9734;" %}
