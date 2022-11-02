@@ -30,7 +30,7 @@ Let's start with a broader picture of how the data is handled by forms.
 The outline below shows the classes
 involved in parameter processing and their relations. 
 
-![Design diagram]({%link /assets/2022/06/09/current-design-diagram.svg %})
+![Design diagram]({{ site.baseurl }}{%link /assets/2022/06/09/current-design-diagram.svg %})
 
 Starting from the bottom, there is a form factory class which creates
 input forms from configuration files. This introduces a nice
@@ -111,7 +111,7 @@ request and ends on the job being executed. A few pieces of the
 process are not entirely clear to me at the moment and require more
 thought to be put into them.
 
-![Data flow diagram]({%link /assets/2022/06/09/data-flow.svg %}){:.centered}
+![Data flow diagram]({{ site.baseurl }}{%link /assets/2022/06/09/data-flow.svg %}){:.centered}
 
 When an HTTP request arrives at the system, it's received by a web
 service's view/controller whose purpose is to translate the language

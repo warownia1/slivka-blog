@@ -99,9 +99,9 @@ higher ([issue #628] on GitHub).
 - [Test 02] - new constraint
 - [Test 03] - new type
 
-[Test 01]: {% link /notebooks/input-validation/schematics/schematics-01-basic-functionality.html %}
-[Test 02]: {% link /notebooks/input-validation/schematics/schematics-02-new-constraint.html %}
-[Test 03]: {% link /notebooks/input-validation/schematics/schematics-03-new-type.html %}
+[Test 01]: {{ site.baseurl }}{% link /notebooks/input-validation/schematics/schematics-01-basic-functionality.html %}
+[Test 02]: {{ site.baseurl }}{% link /notebooks/input-validation/schematics/schematics-02-new-constraint.html %}
+[Test 03]: {{ site.baseurl }}{% link /notebooks/input-validation/schematics/schematics-03-new-type.html %}
 
 Summary:
 

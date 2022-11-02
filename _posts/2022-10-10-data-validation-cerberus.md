@@ -53,11 +53,11 @@ inconsistent results.
 - [Test 04] - dynamic validation (exclusion)
 - [Test 05] - dynamic validation (condition)
 
-[Test 01]: {% link /notebooks/input-validation/cerberus/cerberus-01-basic-functionality.html %}
-[Test 02]: {% link /notebooks/input-validation/cerberus/cerberus-02-new-constraint.html %}
-[Test 03]: {% link /notebooks/input-validation/cerberus/cerberus-03-new-type.html %}
-[Test 04]: {% link /notebooks/input-validation/cerberus/cerberus-04-simple-dynamic-validation.html %}
-[Test 05]: {% link /notebooks/input-validation/cerberus/cerberus-05-advanced-dynamic-validation.html %}
+[Test 01]: {{ site.baseurl }}{% link /notebooks/input-validation/cerberus/cerberus-01-basic-functionality.html %}
+[Test 02]: {{ site.baseurl }}{% link /notebooks/input-validation/cerberus/cerberus-02-new-constraint.html %}
+[Test 03]: {{ site.baseurl }}{% link /notebooks/input-validation/cerberus/cerberus-03-new-type.html %}
+[Test 04]: {{ site.baseurl }}{% link /notebooks/input-validation/cerberus/cerberus-04-simple-dynamic-validation.html %}
+[Test 05]: {{ site.baseurl }}{% link /notebooks/input-validation/cerberus/cerberus-05-advanced-dynamic-validation.html %}
 
 Summary:
 

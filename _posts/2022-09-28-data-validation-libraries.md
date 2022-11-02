@@ -15,7 +15,7 @@ least a couple of them. Here is a list of popular ones that frequently
 appear in "python libraries for validating data" listings (links lead
 to posts dedicated to library analysis):
 
-[previous post]: {% post_url 2022-06-10-parameters-using-composition %}
+[previous post]: {{ site.baseurl }}{% post_url 2022-06-10-parameters-using-composition %}
 
 - [JsonSchema](#jsonschema) - GitHub: [python-jsonschema/jsonschema]
 - [Cerberus] - GitHub: [pyeve/cerberus]
@@ -26,16 +26,16 @@ to posts dedicated to library analysis):
 - [Valideer] - GitHub: [podio/valideer]
 
 [python-jsonschema/jsonschema]: https://github.com/python-jsonschema/jsonschema
-[Cerberus]: {% post_url 2022-10-10-data-validation-cerberus %}
+[Cerberus]: {{ site.baseurl }}{% post_url /2022-10-10-data-validation-cerberus %}
 [pyeve/cerberus]: https://github.com/pyeve/cerberus
-[Colander]: {% post_url 2022-10-13-data-validation-colander %}
+[Colander]: {{ site.baseurl }}{% post_url 2022-10-13-data-validation-colander %}
 [Pylons/colander]: https://github.com/Pylons/colander
 [pydantic/pydantic]: https://github.com/pydantic/pydantic
-[Schema]: {% post_url 2022-10-17-data-validation-schema %}
+[Schema]: {{ site.baseurl }}{% post_url 2022-10-17-data-validation-schema %}
 [keleshev/schema]: https://github.com/keleshev/schema
-[Schematics]: {% post_url 2022-10-18-data-validation-schematics %}
+[Schematics]: {{ site.baseurl }}{% post_url 2022-10-18-data-validation-schematics %}
 [schematics/schematics]: https://github.com/schematics/schematics
-[Valideer]: {% post_url 2022-10-20-data-validation-valideer %}
+[Valideer]: {{ site.baseurl }}{% post_url 2022-10-20-data-validation-valideer %}
 [podio/valideer]: https://github.com/podio/valideer
 
 
@@ -181,11 +181,11 @@ feature was not meant to be used.
 - [Test 04] - dynamic validation (exclusion)
 - [Test 05] - dynamic validation (condition)
 
-[Test 01]: {% link /notebooks/input-validation/jsonschema/jsonschema-01-basic-functionality.html %}
-[Test 02]: {% link /notebooks/input-validation/jsonschema/jsonschema-02-new-constraint.html %}
-[Test 03]: {% link /notebooks/input-validation/jsonschema/jsonschema-03-new-type.html %}
-[Test 04]: {% link /notebooks/input-validation/jsonschema/jsonschema-04-simple-dynamic-validation.html %}
-[Test 05]: {% link /notebooks/input-validation/jsonschema/jsonschema-05-advanced-dynamic-validation.html %}
+[Test 01]: {{ site.baseurl}}{% link /notebooks/input-validation/jsonschema/jsonschema-01-basic-functionality.html %}
+[Test 02]: {{ site.baseurl}}{% link /notebooks/input-validation/jsonschema/jsonschema-02-new-constraint.html %}
+[Test 03]: {{ site.baseurl}}{% link /notebooks/input-validation/jsonschema/jsonschema-03-new-type.html %}
+[Test 04]: {{ site.baseurl}}{% link /notebooks/input-validation/jsonschema/jsonschema-04-simple-dynamic-validation.html %}
+[Test 05]: {{ site.baseurl}}{% link /notebooks/input-validation/jsonschema/jsonschema-05-advanced-dynamic-validation.html %}
 
 Summary:
 

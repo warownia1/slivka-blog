@@ -14,7 +14,7 @@ validation of input values. Below, I present the stripped-down
 declaration of the field class containing only parts relevant to the
 value validation (application logic):
 
-[previous post]: {% post_url 2022-01-12-input-forms-splitting-data-and-presentation %}
+[previous post]: {{ site.baseurl }}{% post_url 2022-01-12-input-forms-splitting-data-and-presentation %}
 
 ```python
 class BaseField:
@@ -138,11 +138,11 @@ type per value type that we can handle) whose features are added by
 composition. New properties can be included without building a
 multi-level hierarchy of classes. Therefore, this pattern:
 
-![Features as composition]({%link /assets/2022/06/10/compositing-parameters.svg %}){:.centered}
+![Features as composition]({{ site.baseurl }}{%link /assets/2022/06/10/compositing-parameters.svg %}){:.centered}
 
 is more suitable than this:
 
-![Features as inheritance]({%link /assets/2022/06/10/inheritance-parameters.svg %}){:.centered}
+![Features as inheritance]({{ site.baseurl }}{%link /assets/2022/06/10/inheritance-parameters.svg %}){:.centered}
 
 Using composition introduces more classes into play, but it has a huge
 advantage of being scaleable, reusable and testable in isolation.
